@@ -2,7 +2,7 @@
 	"name": "df-project1995",
 	"properties": {
 		"globalConfigurations": {
-			"PipelineBillingEnabled": "true"
+			"PipelineBillingEnabled": "false"
 		}
 	},
 	"location": "centralindia",
